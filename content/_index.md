@@ -13,9 +13,7 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-# 🤔
-
-# autism-101
+<img src="logo.png" alt="Autism-101">
 
 A guide for newly diagnosed autistic people.
 
