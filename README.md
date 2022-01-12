@@ -1,4 +1,4 @@
-<a href="https://slides.autism-101.com"><img src="https://raw.githubusercontent.com/autism-101/presentations/master/content/logo.pgn" alt="Autism-101" width="300"></a>
+<a href="https://slides.autism-101.com"><img src="https://raw.githubusercontent.com/autism-101/presentations/master/content/logo.png" alt="Autism-101" width="300"></a>
 
 ## Technology Used
 
