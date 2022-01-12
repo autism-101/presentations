@@ -7,11 +7,6 @@
 - Reveal.js shortcodes make creating slides a dream 🥰
 - Hosted using [CloudFlare Pages](https://pages.cloudflare.com)
 
-<br>
-<br>
-
-[see the code on github](https://github.com/autism-101/presentations)
-
 ---
 
 ## Features
