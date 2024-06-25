@@ -17,7 +17,7 @@ background = "#FF4081"
 
 An Overview Of Our Tech Stack.
 
-~ made by [@aut1o1](https://autism-101.com/) ~
+~ made by [Autism-101.com](https://autism-101.com/) ~
 
 ---
 

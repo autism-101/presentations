@@ -17,4 +17,4 @@ background = "#FF4081"
 
 A guide for newly diagnosed autistic people.
 
-~ made by [@aut1o1](https://autism-101.com/) ~
+~ made by [Autism-101.com](https://autism-101.com/) ~
