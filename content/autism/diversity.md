@@ -1,5 +1,5 @@
 +++
-weight = 20
+weight = 10
 +++
 
 ## What Is Autism?
@@ -18,4 +18,6 @@ weight = 20
 ## Autistic People Differ
 
 > "If you have met one autistic person <br>
-> you have met one autistic person."
+> you have met one autistic person." <sup>1</sup>
+
+— Dr. Stephen Shore (autism advocate)

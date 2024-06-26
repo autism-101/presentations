@@ -13,9 +13,8 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-<img src="logo.png" alt="Autism-101">
+<img src="../logo.png" alt="Autism-101">
 
-#### Presentations
-- <a href="autism">A Guide About Autism</a>
+A Guide About Autism
 
 ~ made by [Autism-101.com](https://autism-101.com/) ~
