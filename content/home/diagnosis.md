@@ -4,7 +4,7 @@ weight = 10
 
 ## When Were You Diagnosed?
 
-- I was diagnosed with Autism in late 2021
+- I was diagnosed as Autistic in late 2021
 - I was 57 years old
 - It was quite a shock 😮
 

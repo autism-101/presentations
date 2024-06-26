@@ -1,12 +1,27 @@
 +++
 weight = 30
-
 +++
-## Every Autistic Has
 
-* Different Sensitivities: Light, Sounds, Textures, Tastes
-* Different Preferences: Foods, Special Interests
+## Autistic People Have 
 
+* Sensory Differences
+
+> "Processing everyday sensory information 
+> can be difficult for autistic people. 
+> Any of their senses may be over- or under-sensitive, 
+> or both, at different times."
+
+***
+
+## Different Sensory Profiles
+
+* Hyposensitive - undersensitive 
+* Hypersensitive - oversensitive
+* Combination of both
+* Can change day to day
+![sensory-profile.png](./sensory-profile.png)
+
+<!-- * Different Preferences: Foods, Special Interests -->
 ***
 
 ## Our Sensory Profile

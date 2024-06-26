@@ -2,9 +2,9 @@
 weight = 20
 +++
 
-## Everyone Is Different
+## What Is Autism?
 
-- Autism is a type of difference
+- Autism is a neurological and developmental difference
 - It is naturally occuring
 - It is not a disease 😷
 - It can't be cured

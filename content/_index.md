@@ -15,6 +15,6 @@ background = "#FF4081"
 
 <img src="logo.png" alt="Autism-101">
 
-A guide for newly diagnosed autistic people.
+A guide about autism.
 
 ~ made by [Autism-101.com](https://autism-101.com/) ~
