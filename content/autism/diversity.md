@@ -18,6 +18,6 @@ weight = 10
 ## Autistic People Differ
 
 > "If you have met one autistic person <br>
-> you have met one autistic person." <sup>1</sup>
+> you have met one autistic person." <sup><a href="#/14">[1]</a></sup>
 
 — Dr. Stephen Shore (autism advocate)

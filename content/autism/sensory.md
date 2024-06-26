@@ -7,7 +7,7 @@ weight = 20
 > "Processing everyday sensory information 
 > can be difficult for autistic people. 
 > Any of their senses may be over- or under-sensitive, 
-> or both, at different times." <sup>2</sup>
+> or both, at different times." <sup><a href="#/14">[2]</a></sup>
 
 — National Autistic Society
 
