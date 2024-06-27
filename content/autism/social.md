@@ -14,5 +14,6 @@ weight = 30
 
 - We Might Appear To Be Insensitive
 - Find It Hard To Form Friendships
+- Have Little Facial Expression (flat affect)
 - Seek Out Alone Time - When Overloaded
 - Not Know How We Feel - Alexithymia
