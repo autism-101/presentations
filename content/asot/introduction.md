@@ -31,7 +31,7 @@ Why didn't they get diagnosed 40 years ago?
 
 ---
 
-- 1943/1944: Kanner & Asperger define the condition (mostly in children).
+- 1943-1944: Kanner & Asperger define the condition (mostly in children).
 - 1980 (DSM-III): "Infantile Autism" enters the DSM. Strict criteria.
 - 1994 (DSM-IV): Asperger's Syndrome added. The beginning of broader recognition.
 - 2013 (DSM-5): ASD becomes a spectrum; allows for adult diagnosis more easily.

@@ -20,13 +20,11 @@ weight = 20
             <li>"Masking" or "Camouflaging" to survive education and employment.</li>
             <li>Traits attributed to other things: "quirky," "shy," "difficult," or misdiagnosed with personality disorders/anxiety.</li>
         </ul>
-        <p><em>Tip: Check "Older Autistic Adults In Their Own Words" for quotes on historical misdiagnosis.</em></p>
     </div>
+    <aside class="notes">
+      Check Older Autistic Adults In Their Own Words for quotes on historical misdiagnosis.
+    </aside>
 </section>
-
-<aside class="notes">
-  Check Older Autistic Adults In Their Own Words for quotes on historical misdiagnosis.
-</aside>
 
 --- 
 
