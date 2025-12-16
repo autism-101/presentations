@@ -1,6 +1,6 @@
 +++
 title = "autism-101"
-description = "A guide for newly diagnosed autistic people."
+description = "Autism and Aging"
 outputs = ["Reveal"]
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
@@ -13,10 +13,10 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-<img src="logo.png" alt="Autism-101">
+<img src="../logo.png" alt="Autism-101">
 
-#### Presentations
-- <a href="autism">A Guide About Autism</a>
-- <a href="asot">An Overview of Autism and Aging</a>
+An Overview of Autism and Aging
+
+Navigating Challenges and Embracing Identity at 50+
 
 ~ made by [Autism-101.com](https://autism-101.com/) ~

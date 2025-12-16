@@ -2,6 +2,7 @@ baseURL = 'https://slides.autism-101.com'
 languageCode = 'en-us'
 title = 'Autism-101'
 theme = "reveal-hugo"
+disableKinds = ["taxonomy", "term"]
 
 [markup.goldmark.renderer]
 unsafe = true
