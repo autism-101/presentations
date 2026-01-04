@@ -14,11 +14,11 @@ weight = 10
 
 ## Why Are We Talking About This Now?
 
-- The "Graying" of the population globally.<sup><a href="#/21">[1]</a></sup>
+- The "Graying" of the population globally.<sup><a href="#/22">[1]</a></sup>
 
-- The first generation diagnosed as children are now entering middle age.<sup><a href="#/21">[2]</a></sup>
-- The massive, previously unidentified group of people aged 50-80+.<sup><a href="#/21">[3]</a></sup>
-- A critical lack of research and services for autistic seniors.<sup><a href="#/21">[4]</a></sup>
+- The first generation diagnosed as children are now entering middle age.<sup><a href="#/22">[2]</a></sup>
+- The massive, previously unidentified group of people aged 50-80+.<sup><a href="#/22">[3]</a></sup>
+- A critical lack of research and services for autistic seniors.<sup><a href="#/22">[4]</a></sup>
 
     <aside class="notes">
         Mention here that gerontology and neurodivergence research have historically been siloed. We are just now building the bridge.

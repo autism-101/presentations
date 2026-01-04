@@ -11,7 +11,7 @@ weight = 30
 }
 </style>
 
-## Sensory Differences Intensify With Age
+## Sensory Differences 
 
 > "Processing everyday sensory information 
 > can be difficult for autistic people. 

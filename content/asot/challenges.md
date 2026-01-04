@@ -23,7 +23,7 @@ Aging and Autism interact bidirectionally:
 --- 
 
 ## Healthcare Barriers
-* <strong>Communication Mismatches:</strong> Difficulty describing pain accurately; doctors misinterpreting flat affect or direct communication as non-compliance.
+* <strong>Communication Mismatches:</strong> Difficulty describing pain accurately; doctors misinterpreting flat affect or direct/blunt communication as non-compliance.
 * <strong>Sensory Overload in Clinics:</strong> Bright lights, waiting rooms, and physical exams can lead to care avoidance.
 * <strong>Co-occurring Conditions:</strong> Higher rates of anxiety, depression, GI issues, and sleep disorders often complicate geriatric care.
 
