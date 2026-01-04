@@ -48,8 +48,10 @@ Why didn't they get diagnosed 40 years ago?
     <h2>Who Are "Older Autistic Adults"?</h2>
     <p>Today, we are focusing generally on those 50+, but specifically two groups:</p>
 
-- <strong>Diagnosed early:</strong> now aging.
-- <strong>"Lost Generation":</strong> diagnosed late in life, or still undiagnosed.
+<ul>
+<li><strong>Diagnosed early:</strong> now aging.</li>
+<li><strong>"Lost Generation":</strong> diagnosed late in life, or still undiagnosed.</li>
+</ul>
 
 </section>
 
