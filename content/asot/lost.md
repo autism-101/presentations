@@ -16,9 +16,9 @@ weight = 20
     <div style="background-color: rgba(255, 255, 255, 0.8); color: black; padding: 20px;">
         <h2>Why Were They Missed?</h2>
         <ul>
-            <li>Diagnostic criteria historically focused on young, white males with high support needs.</li>
-            <li>"Masking" or "Camouflaging" to survive education and employment.</li>
-            <li>Traits attributed to other things: "quirky," "shy," "difficult," or misdiagnosed with personality disorders/anxiety.</li>
+            <li><strong>Diagnostic criteria</strong> historically focused on young, white males with high support needs.</li>
+            <li><strong>"Masking"</strong> or <strong>"Camouflaging"</strong> to survive education and employment.</li>
+            <li><strong>Traits</strong> attributed to other things: "quirky," "shy," "difficult," or misdiagnosed with personality disorders/anxiety.</li>
         </ul>
     </div>
     <aside class="notes">
@@ -68,10 +68,12 @@ weight = 20
 <section>
     <h3 style="color: #333;">Case Study: "Susan" (Age 64)</h3>
     <div style="text-align: left; color: #333;">
-        <p><strong>Background:</strong> Retired librarian. Always called "shy" and "rigid."</p>
-        <p><strong>The Trigger:</strong> Husband passed away 2 years ago. The loss of his support (handling bills, driving, social buffer) caused a collapse.</p>
-        <p><strong>The Misdiagnosis:</strong> Diagnosed with Treatment-Resistant Depression and Early Onset Dementia due to "confusion" (which was actually brain fog and burnout).</p>
-        <p><strong>The Realization:</strong> Read a memoir by an autistic woman and recognized herself.</p>
+    <ul>
+        <li><strong>Background:</strong> Retired librarian. Always called "shy" and "rigid."</li>
+        <li><strong>The Trigger:</strong> Husband passed away 2 years ago. The loss of his support (handling bills, driving, social buffer) caused a collapse.</li>
+        <li><strong>The Misdiagnosis:</strong> Diagnosed with Treatment-Resistant Depression and Early Onset Dementia due to "confusion" (which was actually brain fog and burnout).</li>
+        <li><strong>The Realization:</strong> Read a memoir by an autistic woman and recognized herself.</li>
+    </ul>
     </div>
 </section>
 

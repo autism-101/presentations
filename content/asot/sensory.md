@@ -35,7 +35,7 @@ weight = 30
 
 ## Do Sensory Issues "Mellow" With Age?
 
-**Short Answer: No.** They often become harder to manage.
+__Short Answer: No.__ They often become __harder__ to manage.
 
 * Older autistic adults report lower ability to "cope" with sensory input. The energy used to "mask" or "push through" in their 30s is gone.<sup><a href="#/15">[2]</a></sup>
 * Age-related hearing/vision loss increases cognitive load. The brain works harder to interpret data, leading to faster overload.<sup><a href="#/15">[2]</a></sup>
