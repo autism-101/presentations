@@ -65,7 +65,7 @@ weight = 20
 
 --- 
 
-<section data-background-color="#f0f0f0">
+<section>
     <h3 style="color: #333;">Case Study: "Susan" (Age 64)</h3>
     <div style="text-align: left; color: #333;">
         <p><strong>Background:</strong> Retired librarian. Always called "shy" and "rigid."</p>
