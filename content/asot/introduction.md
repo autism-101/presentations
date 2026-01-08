@@ -32,6 +32,10 @@ Why didn't they get diagnosed 40 years ago?
 
 ---
 
+![autism-timeline.jpg](./autism-timeline.jpg)
+
+---
+
 - <strong>1943-1944:</strong> Kanner & Asperger define the condition (mostly in children).
 - <strong>1980 (DSM-III):</strong> "Infantile Autism" enters the DSM. Strict criteria.
 - <strong>1994 (DSM-IV):</strong> Asperger's Syndrome added. The beginning of broader recognition.
