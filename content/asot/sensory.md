@@ -16,7 +16,7 @@ weight = 30
 > "Processing everyday sensory information 
 > can be difficult for autistic people. 
 > Any of their senses may be over- or under-sensitive, 
-> or both, at different times." <sup><a href="#/15">[2]</a></sup>
+> or both, at different times." <sup><a href="#/27">[7]</a></sup>
 
 — NAS 
 
@@ -37,7 +37,7 @@ weight = 30
 
 __Short Answer: No.__ They often become __harder__ to manage.
 
-* Older autistic adults report lower ability to "cope" with sensory input. The energy used to "mask" or "push through" in their 30s is gone.<sup><a href="#/15">[2]</a></sup>
-* Age-related hearing/vision loss increases cognitive load. The brain works harder to interpret data, leading to faster overload.<sup><a href="#/15">[2]</a></sup>
-* After age 40, the autistic nervous system may regulate stress less efficiently, making sensory triggers feel more physically painful.<sup><a href="#/15">[2]</a></sup>
+* Older autistic adults report lower ability to "cope" with sensory input. The energy used to "mask" or "push through" in their 30s is gone.<sup><a href="#/27">[8]</a></sup>
+* Age-related hearing/vision loss increases cognitive load. The brain works harder to interpret data, leading to faster overload.<sup><a href="#/27">[8]</a></sup>
+* After age 40, the autistic nervous system may regulate stress less efficiently, making sensory triggers feel more physically painful.<sup><a href="#/27">[8]</a></sup>
 

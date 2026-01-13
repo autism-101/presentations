@@ -28,7 +28,7 @@ weight = 10
 ## Autistic People Differ
 
 > "If you have met one autistic person <br>
-> you have met one autistic person." <sup><a href="#/15">[1]</a></sup>
+> you have met one autistic person." <sup><a href="#/26">[1]</a></sup>
 
 — Dr. Stephen Shore (autism advocate)
 
@@ -40,11 +40,11 @@ weight = 10
 
 ## Why Are We Talking About This Now?
 
-- The "Graying" of the population globally.<sup><a href="#/26">[1]</a></sup>
+- The "Graying" of the population globally.<sup><a href="#/26">[2]</a></sup>
 
-- The first generation diagnosed as children are now entering middle age.<sup><a href="#/26">[2]</a></sup>
-- The massive, previously unidentified group of people aged 50-80+.<sup><a href="#/26">[3]</a></sup>
-- A critical lack of research and services for autistic seniors.<sup><a href="#/26">[4]</a></sup>
+- The first generation diagnosed as children are now entering middle age.<sup><a href="#/26">[3]</a></sup>
+- The massive, previously unidentified group of people aged 50-80+.<sup><a href="#/26">[4]</a></sup>
+- A critical lack of research and services for autistic seniors.<sup><a href="#/26">[5]</a></sup>
 
     <aside class="notes">
         Mention here that gerontology and neurodivergence research have historically been siloed. We are just now building the bridge.
