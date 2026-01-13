@@ -57,7 +57,6 @@ Aging and Autism interact bidirectionally:
 <ul>
 <li><strong>Solitude as Strength:</strong> Often better equipped to handle alone time than neurotypical peers.</li>
 <li><strong>Passionate Interests:</strong> "Special Interests" provide deep engagement, cognitive protection, and joy in retirement.</li>
-<li><strong>Detail Orientation:</strong> Excellent at managing complex medication schedules or financial planning (if executive function permits).</li>
 <li><strong>Non-Conformity:</strong> Less pressure to keep up with societal expectations of "how to act" at 70.</li>
 </ul>
 </section>

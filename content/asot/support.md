@@ -43,7 +43,7 @@ weight = 80
 <section>
     <h1>Questions?</h1>
     <p>Thank you for listening.</p>
-    <p><small>contact[AT]autism-101.com / https://autism-101.com</small></p>
+    <p><small>contact[AT]autism-101.com ~ https://autism-101.com</small></p>
 </section>
 
 

@@ -16,7 +16,6 @@ background = "#FF4081"
 <img src="logo.png" alt="Autism-101">
 
 #### Presentations
-- <a href="autism">A Guide About Autism</a>
 - <a href="asot">An Overview of Autism and Aging</a>
 
 ~ made by [Autism-101.com](https://autism-101.com/) ~

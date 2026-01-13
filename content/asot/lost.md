@@ -44,7 +44,7 @@ weight = 20
 <section class="left-aligned-section">
      <div style="padding: 20px;">
         <h2>The Diagnostic Journey</h2>
-        <p>As detailed in books like <em>Lost and Now Found <sup><a href="#/15">[2]</a></sup>
+        <p>As detailed in books like <em>Lost & Now Found <sup><a href="#/24">[5]</a></sup>
 </em>, diagnosis is complex:</p>
         <div style="display: flex; justify-content: space-around;">
             <div style="flex: 1; padding: 10px;">

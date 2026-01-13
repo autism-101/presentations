@@ -12,13 +12,39 @@ weight = 10
 }
 </style>
 
+## What Is Autism?
+
+- Autism is a neurological and developmental difference
+- It is naturally occuring
+- It is not a disease 😷
+- It can't be cured
+- It has always existed
+
+<br>
+<br>
+
+---
+
+## Autistic People Differ
+
+> "If you have met one autistic person <br>
+> you have met one autistic person." <sup><a href="#/15">[1]</a></sup>
+
+— Dr. Stephen Shore (autism advocate)
+
+---
+
+![autism-look-like.jpeg](./autism-look-like.jpeg)
+
+---
+
 ## Why Are We Talking About This Now?
 
-- The "Graying" of the population globally.<sup><a href="#/22">[1]</a></sup>
+- The "Graying" of the population globally.<sup><a href="#/26">[1]</a></sup>
 
-- The first generation diagnosed as children are now entering middle age.<sup><a href="#/22">[2]</a></sup>
-- The massive, previously unidentified group of people aged 50-80+.<sup><a href="#/22">[3]</a></sup>
-- A critical lack of research and services for autistic seniors.<sup><a href="#/22">[4]</a></sup>
+- The first generation diagnosed as children are now entering middle age.<sup><a href="#/26">[2]</a></sup>
+- The massive, previously unidentified group of people aged 50-80+.<sup><a href="#/26">[3]</a></sup>
+- A critical lack of research and services for autistic seniors.<sup><a href="#/26">[4]</a></sup>
 
     <aside class="notes">
         Mention here that gerontology and neurodivergence research have historically been siloed. We are just now building the bridge.
