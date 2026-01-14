@@ -41,8 +41,7 @@ weight = 80
 --- 
 
 <section>
-    <h1>Questions?</h1>
-    <p>Thank you for listening.</p>
+    <h1>Thank you for listening.</h1>
     <p><small>contact[AT]autism-101.com ~ https://autism-101.com</small></p>
 </section>
 
