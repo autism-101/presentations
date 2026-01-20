@@ -15,13 +15,17 @@ weight = 10
 ## What Is Autism?
 
 - Autism is a neurological and developmental difference
-- It is naturally occuring
+- It is naturally occurring
 - It is not a disease 😷
 - It can't be cured
 - It has always existed
 
 <br>
 <br>
+
+<aside class="notes">
+  No epidemic. Better diagnostic tools and training. Broadening of the definition, more awareness through social media.
+</aside>
 
 ---
 
@@ -32,9 +36,17 @@ weight = 10
 
 — Dr. Stephen Shore (autism advocate)
 
+<aside class="notes">
+  We each present our autism differently. We might have different co-occurring conditions.
+</aside>
+
 ---
 
 ![autism-look-like.jpeg](./autism-look-like.jpeg)
+
+<aside class="notes">
+  You can't tell by looking at a picture of someone whether they are autistic or not. Autistic kids grow up to be autistic adults.
+</aside>
 
 ---
 
@@ -46,9 +58,9 @@ weight = 10
 - The massive, previously unidentified group of people aged 50-80+.<sup><a href="#/26">[4]</a></sup>
 - A critical lack of research and services for autistic seniors.<sup><a href="#/26">[5]</a></sup>
 
-    <aside class="notes">
-        Mention here that gerontology and neurodivergence research have historically been siloed. We are just now building the bridge.
-    </aside>
+<aside class="notes">
+  Between 2015 and 2050, world's population over 60 will nearly double to 22%. Mention here that gerontology and neurodivergence research have historically been siloed. We are just now building the bridge.
+</aside>
 
 ---
 
