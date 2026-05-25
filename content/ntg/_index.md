@@ -15,9 +15,12 @@ background = "#FF4081"
 
 <img src="../logo.png" alt="Autism-101">
 
-**What Organizations Need To Know About Aging In Adults With Autism**
+**What Organizations Need To Know About Aging In Adults With {{< autism >}}**
 
 *Part of the Essentials of Dementia Capable Care Series*
 
-
 Jeff Owens - contact[AT]autism-101.com
+
+This presentation uses "Identity-First" language to refer to others with {{< autism >}}.
+
+Presentation available at: https://slides.autism-101.com
