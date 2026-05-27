@@ -4,6 +4,7 @@ description = "What Organizations Need To Know About Aging In Adults With Autism
 outputs = ["Reveal"]
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
+custom_css = "css/custom.css"
 margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
