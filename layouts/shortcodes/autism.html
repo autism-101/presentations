@@ -1,13 +1,1 @@
-{{- $letters := slice
-  (dict "text" "A" "color" "#de4570")
-  (dict "text" "u" "color" "#00fdff")
-  (dict "text" "t" "color" "#a16e3a")
-  (dict "text" "i" "color" "#878787")
-  (dict "text" "s" "color" "#008448")
-  (dict "text" "m" "color" "#702fff")
--}}
-<span class="autism-word" aria-label="Autism">
-  {{- range $letters -}}
-    <span aria-hidden="true" style="color: {{ .color }};">{{ .text }}</span>
-  {{- end -}}
-</span>
+<span class="autism-word" aria-label="Autism"><span aria-hidden="true" style="color: #de4570;">A</span><span aria-hidden="true" style="color: #00fdff;">u</span><span aria-hidden="true" style="color: #a16e3a;">t</span><span aria-hidden="true" style="color: #878787;">i</span><span aria-hidden="true" style="color: #008448;">s</span><span aria-hidden="true" style="color: #702fff;">m</span></span>
