@@ -9,3 +9,22 @@
 .customjs {
     background-color: #504e9e
 }
+
+.reveal .slides section .fragment.answer-fragment {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.reveal .slides section .fragment.answer-fragment.visible {
+    opacity: 1;
+    visibility: inherit;
+    transform: scale(1.3);
+}
+
+.reveal .slides section .fragment.answer-true.visible {
+    color: #17ff2e;
+}
+
+.reveal .slides section .fragment.answer-false.visible {
+    color: #ff2c2d;
+}
